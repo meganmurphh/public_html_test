@@ -1,3 +1,3 @@
 # public_html_test
 
-[Click here](test.html)
+[Click here](docs/index.html)
